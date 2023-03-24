@@ -4,6 +4,7 @@
     <list default="true" id="884e5b91-e824-47aa-b5a3-632fb452b050" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/efef" afterDir="false" />
     </list>
+    <list default="true" id="884e5b91-e824-47aa-b5a3-632fb452b050" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +27,11 @@
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="8" selection-start-column="8" selection-end-column="8" />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -46,6 +52,10 @@
       <list>
         <option value="$PROJECT_DIR$/efef" />
       </list>
+    </option>
+  </component>
+        <entry key="$PROJECT_DIR$" value="develop" />
+      </map>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -111,6 +121,11 @@
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2497532" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" sideWeight="0.4995064" visible="true" weight="0.52816904" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2497532" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Version Control" sideWeight="0.4995064" visible="true" weight="0.52816904" />
       <window_info anchor="bottom" id="Python Console" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.5004936" side_tool="true" weight="0.52816904" />
@@ -127,6 +142,12 @@
     </layout>
   </component>
   <component name="Vcs.Log.History.Properties">
+    <option name="SHOW_OTHER_BRANCHES" value="true" />
+    <option name="COLUMN_WIDTH">
+      <map>
+        <entry key="3" value="153" />
+      </map>
+    </option>
     <option name="COLUMN_ORDER">
       <list>
         <option value="0" />
@@ -174,6 +195,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="8" selection-start-column="8" selection-end-column="8" />
+        <state relative-caret-position="115">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
